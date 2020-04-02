@@ -1,4 +1,4 @@
-package automate;
+package automate_1;
 
 import java.util.concurrent.TimeUnit;
 
